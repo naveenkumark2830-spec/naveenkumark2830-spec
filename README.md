@@ -113,20 +113,20 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/SchemaArchitect">
-<img src="https://github-readme-stats.vercel.app/api?username=SchemaArchitect&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
+<a href="https://github.com/naveenkumark2830-spec">
+<img src="https://github-readme-stats.vercel.app/api?username=naveenkumark2830-spec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
 </a>
-<a href="https://github.com/SchemaArchitect">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchemaArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
+<a href="https://github.com/naveenkumark2830-spec">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumark2830-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
 </a>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=SchemaArchitect&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SchemaArchitect&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark-spec&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 <br>
