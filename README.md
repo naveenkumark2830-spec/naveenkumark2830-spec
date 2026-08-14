@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Kumar%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Building%20real-time%20pipelines%20%26%20lakehouses%20on%20AWS&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Naveen%20Kumar%20K&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Data%20Engineer%20%7C%20Building%20real-time%20pipelines%20%26%20lakehouses%20on%20AWS&amp;descAlignY=62&amp;descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+Big+Data+%26+Cloud;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+Kafka+%C2%B7+AWS;Building+Event-Driven+Lakehouses+on+AWS;M.Sc.+Big+Data+Analytics+%40+St.+Joseph%27s+University" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Data+Engineer+%7C+Big+Data+%26+Cloud;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+Kafka+%C2%B7+AWS;Building+Event-Driven+Lakehouses+on+AWS;M.Sc.+Big+Data+Analytics+%40+St.+Joseph%27s+University" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-k-973442398/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenkumark2830@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=SchemaArchitect&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=naveenkumark2830-spec&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -114,19 +114,19 @@ print(me.motto())
 
 <div align="center">
 <a href="https://github.com/naveenkumark2830-spec">
-<img src="https://github-readme-stats.vercel.app/api?username=naveenkumark2830-spec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naveenkumark2830-spec&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" height="165"/>
 </a>
 <a href="https://github.com/naveenkumark2830-spec">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumark2830-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumark2830-spec&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" height="165"/>
 </a>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark-spec&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark2830-spec&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" />
 </div>
 
 <br>
@@ -211,6 +211,8 @@ print(me.motto())
 |---|---|---|---|
 | M.Sc. Big Data Analytics | St. Joseph's University, Bengaluru | 2025 – 2027 (Expected) | SGPA 8.71 |
 | B.C.A. in Data Analytics | St. Joseph's University, Bengaluru | 2022 – 2025 | CGPA 8.7 |
+| PUC — MSBA Combination | St. Joseph's Indian Composite PU College | — | 89% |
+| SSLC | St. Paul High School | — | 92.32% |
 
 </div>
 
@@ -225,5 +227,5 @@ Data Governance         → Schema contracts, lineage, access control
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 </div>
