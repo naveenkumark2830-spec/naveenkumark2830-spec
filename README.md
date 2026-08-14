@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2200&amp;pause=900&amp;color=BF91F3&amp;center=false&amp;vCenter=true&amp;width=380&amp;height=280&amp;lines=%3E+streaming+kafka+events...;%3E+validating+%2B+deduping...;%3E+writing+bronze+layer...;%3E+writing+silver+layer...;%3E+writing+gold+layer...;%3E+pipeline+healthy+%E2%9C%93" />
 
 ```python
 class DataEngineer:
