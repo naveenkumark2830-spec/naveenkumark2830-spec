@@ -227,5 +227,5 @@ Data Governance         → Schema contracts, lineage, access control
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
+<img src="footer-banner.svg" width="100%" />
 </div>
