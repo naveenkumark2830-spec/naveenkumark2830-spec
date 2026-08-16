@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Naveen%20Kumar%20K&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Data%20Engineer%20%7C%20Building%20real-time%20pipelines%20%26%20lakehouses%20on%20AWS&amp;descAlignY=62&amp;descSize=16" />
+ <img src="header-banner (1).svg" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Data+Engineer+%7C+Big+Data+%26+Cloud;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+Kafka+%C2%B7+AWS;Building+Event-Driven+Lakehouses+on+AWS;M.Sc.+Big+Data+Analytics+%40+St.+Joseph%27s+University" />
 
