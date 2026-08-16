@@ -1,0 +1,21 @@
+<svg width="1500" height="140" viewBox="0 0 1500 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="waveGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDAE"/>
+      <stop offset="50%" stop-color="#BF91F3"/>
+      <stop offset="100%" stop-color="#70A5FD"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1500" height="140" fill="url(#bgGradFooter)"/>
+
+  <path d="M0,50 C250,90 400,20 650,60 C900,100 1050,30 1300,70 C1400,85 1450,80 1500,85 L1500,0 L0,0 Z"
+        fill="url(#waveGradFooter)" opacity="0.25"/>
+  <path d="M0,70 C250,110 400,40 650,80 C900,120 1050,50 1300,90 C1400,100 1450,95 1500,100 L1500,0 L0,0 Z"
+        fill="url(#waveGradFooter)" opacity="0.45"/>
+</svg>
