@@ -10,6 +10,22 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark2830-spec&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://ghchart.rshah.org/39d353/naveenkumark2830-spec" alt="Naveen's GitHub contribution chart" />
+</div>
+
 <br>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -105,24 +121,6 @@ print(me.motto())
 ![Star & Snowflake Schema](https://img.shields.io/badge/Star_%26_Snowflake_Schema-00758F?style=flat-square)
 ![Fact/Dimension Tables](https://img.shields.io/badge/Fact%2FDimension_Tables-00758F?style=flat-square)
 ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-00758F?style=flat-square)
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark2830-spec&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://ghchart.rshah.org/39d353/naveenkumark2830-spec" alt="Naveen's GitHub contribution chart" />
-</div>
 
 <br>
 
