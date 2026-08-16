@@ -1,8 +1,8 @@
 <div align="center">
 
- <img src="header-banner (1).svg" width="100%" />
+<img src="header-banner (1).svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Data+Engineer+%7C+Big+Data+%26+Cloud;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+Kafka+%C2%B7+AWS;Building+Event-Driven+Lakehouses+on+AWS;M.Sc.+Big+Data+Analytics+%40+St.+Joseph%27s+University" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+Big+Data+%26+Cloud;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+Kafka+%C2%B7+AWS;Building+Event-Driven+Lakehouses+on+AWS;M.Sc.+Big+Data+Analytics+%40+St.+Joseph%27s+University" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-k-973442398/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenkumark2830@gmail.com)
@@ -39,8 +39,6 @@ print(me.motto())
 <br clear="right"/>
 
 ## 🛠️ Tech Stack
-
-*Every badge below only uses a logo confirmed to exist in the Simple Icons set — anything without a verified brand icon renders as a clean text-only badge instead of a broken image.*
 
 **Programming & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -114,19 +112,25 @@ print(me.motto())
 
 <div align="center">
 <a href="https://github.com/naveenkumark2830-spec">
-<img src="https://github-readme-stats.vercel.app/api?username=naveenkumark2830-spec&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=naveenkumark2830-spec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
 </a>
 <a href="https://github.com/naveenkumark2830-spec">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumark2830-spec&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveenkumark2830-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
 </a>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark2830-spec&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark2830-spec&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://ghchart.rshah.org/70A5FD/naveenkumark2830-spec" alt="Naveen's GitHub contribution chart" />
 </div>
 
 <br>
@@ -145,29 +149,6 @@ print(me.motto())
 
 </details>
 
-<details>
-<summary><b>First Coordinator — MetaMinds 1.0</b> | 2025 – 2026 | St. Joseph's University, Bengaluru</summary>
-<br>
-
-> `Event Planning` `Cross-functional Coordination` `Leadership`
-
-- Managed end-to-end planning of a two-day inter-collegiate fest
-- Coordinated cross-functional teams across logistics, content and operations
-- Delivered an event that drew **1,200+ participants**
-
-</details>
-
-<details>
-<summary><b>President — National Service Scheme (NSS)</b> | 2024 – 2025 | St. Joseph's University, Bengaluru</summary>
-<br>
-
-> `Team Leadership` `Program Management` `Community Outreach`
-
-- Led and organized **50+ volunteers** across multiple community outreach initiatives
-- Managed a successful **7-day rural camp** end to end
-- Ran the unit's initiatives for a full academic year as President
-
-</details>
 
 <br>
 
