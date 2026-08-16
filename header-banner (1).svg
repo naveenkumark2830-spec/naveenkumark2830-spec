@@ -1,0 +1,27 @@
+<svg width="1500" height="260" viewBox="0 0 1500 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70A5FD"/>
+      <stop offset="50%" stop-color="#BF91F3"/>
+      <stop offset="100%" stop-color="#38BDAE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1500" height="260" fill="url(#bgGrad)"/>
+
+  <path d="M0,190 C250,140 400,230 650,180 C900,130 1050,220 1300,170 C1400,150 1450,160 1500,150 L1500,260 L0,260 Z"
+        fill="url(#waveGrad)" opacity="0.25"/>
+  <path d="M0,210 C250,170 400,240 650,200 C900,160 1050,230 1300,190 C1400,175 1450,180 1500,175 L1500,260 L0,260 Z"
+        fill="url(#waveGrad)" opacity="0.45"/>
+
+  <text x="750" y="115" font-family="Segoe UI, Verdana, sans-serif" font-size="46" font-weight="700"
+        fill="#ffffff" text-anchor="middle">Naveen Kumar K</text>
+
+  <text x="750" y="155" font-family="Segoe UI, Verdana, sans-serif" font-size="18"
+        fill="#c9d1d9" text-anchor="middle">Data Engineer | Building real-time pipelines &amp; lakehouses on AWS</text>
+</svg>
