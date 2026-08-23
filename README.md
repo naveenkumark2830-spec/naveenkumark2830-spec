@@ -185,16 +185,6 @@ print(me.motto())
 
 </div>
 
-## 📚 Currently Learning
-
-```
-Distributed Systems     → Partitioning, replication, consensus
-RAG Evaluation Metrics  → NDCG@k, MRR, retrieval precision
-Data Governance         → Schema contracts, lineage, access control
-```
-
-<br>
-
 <div align="center">
 <img src="footer-banner.svg" width="100%" />
 </div>
