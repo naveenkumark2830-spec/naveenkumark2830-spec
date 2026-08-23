@@ -10,10 +10,6 @@
 
 </div>
 
-<div align="center">
-<img src="https://ghchart.rshah.org/39d353/naveenkumark2830-spec" alt="Naveen's GitHub contribution chart" />
-</div>
-
 <br>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
