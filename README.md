@@ -10,16 +10,16 @@
 
 <p>
   <a href="https://naveen-portfolio-gray-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-8957E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/SchemaArchitect">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/naveen-kumar-k-973442398/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:naveenkumark2830@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email">
+    <img src="https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="./img.png" width="260" alt="Naveen Kumar K">
+<img src="./img.png" width="330" alt="Naveen Kumar K">
 
 </td>
 </tr>
