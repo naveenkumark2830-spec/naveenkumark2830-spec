@@ -24,12 +24,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/SchemaArchitect?tab=followers">
-    <img src="https://img.shields.io/github/followers/SchemaArchitect?style=for-the-badge&label=FOLLOWERS&color=58A6FF&labelColor=161B22" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/SchemaArchitect?tab=repositories">
-    <img src="https://img.shields.io/github/stars/SchemaArchitect?style=for-the-badge&label=STARS&color=79C0FF&labelColor=161B22" alt="GitHub stars">
-  </a>
   <img src="https://komarev.com/ghpvc/?username=SchemaArchitect&style=for-the-badge&label=PROFILE%20VIEWS&color=58A6FF&labelColor=161B22" alt="Profile views">
 </p>
 
