@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="250" hspace="15" alt="Naveen Kumar K">
+<img align="right" src="./img.png" width="320" height="380" hspace="15" alt="Naveen Kumar K">
 
 <h1>Hey there, I'm Naveen Kumar K 👋</h1>
 
