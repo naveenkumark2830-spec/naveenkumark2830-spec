@@ -1,6 +1,6 @@
-<div align="left">
-
-<img align="right" src="./img.png" width="320" height="450" hspace="15" alt="Naveen Kumar K">
+<table align="center" width="100%">
+<tr>
+<td width="70%" valign="middle">
 
 <h1>Hey there, I'm Naveen Kumar K 👋</h1>
 
@@ -27,9 +27,14 @@
   <img src="https://komarev.com/ghpvc/?username=SchemaArchitect&style=for-the-badge&label=PROFILE%20VIEWS&color=58A6FF&labelColor=161B22" alt="Profile views">
 </p>
 
-<br clear="both">
+</td>
+<td width="30%" align="center" valign="middle">
 
-</div>
+<img src="./img.png" width="260" alt="Naveen Kumar K">
+
+</td>
+</tr>
+</table>
 
 ---
 
