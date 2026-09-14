@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="320" height="380" hspace="15" alt="Naveen Kumar K">
+<img align="right" src="./img.png" width="320" height="450" hspace="15" alt="Naveen Kumar K">
 
 <h1>Hey there, I'm Naveen Kumar K 👋</h1>
 
@@ -21,6 +21,10 @@
   <a href="mailto:naveenkumark2830@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email">
   </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SchemaArchitect&style=for-the-badge&label=PROFILE%20VIEWS&color=58A6FF&labelColor=161B22" alt="Profile views">
 </p>
 
 <br clear="both">
