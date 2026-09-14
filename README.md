@@ -1,163 +1,100 @@
-<div align="center">
+<div align="left">
 
-# 👋 Hey, I'm Naveen Kumar K
+<img align="right" src="./img.png" width="250" hspace="15" alt="Naveen Kumar K">
 
-### Data Engineer | Big Data | Real-Time Streaming | AWS | ETL | AI/LLM
+<h1>Hey there, I'm Naveen Kumar K 👋</h1>
+
+<a href="https://github.com/SchemaArchitect">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=500&lines=Data+Engineer;Python+%7C+Spark+%7C+Kafka+%7C+Airflow;AWS+Cloud+%26+Real-Time+Pipelines;Data+Lakehouse+%26+RAG+Systems;Turning+Raw+Data+Into+Insight" alt="Typing SVG">
+</a>
 
 <p>
-  <a href="https://github.com/naveenkumark2830-spec">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://naveen-portfolio-gray-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://github.com/SchemaArchitect">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://linkedin.com/in/naveen-kumar-k-973442398/">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn">
+  </a>
+  <a href="mailto:naveenkumark2830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email">
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Pipelines;Real-Time+Streaming+%7C+Cloud+%7C+Big+Data;Kafka+%7C+Spark+%7C+AWS+%7C+Airflow;Turning+Data+Into+Insights+%26+Intelligence" />
+<p>
+  <a href="https://github.com/SchemaArchitect?tab=followers">
+    <img src="https://img.shields.io/github/followers/SchemaArchitect?style=for-the-badge&label=FOLLOWERS&color=58A6FF&labelColor=161B22" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/SchemaArchitect?tab=repositories">
+    <img src="https://img.shields.io/github/stars/SchemaArchitect?style=for-the-badge&label=STARS&color=79C0FF&labelColor=161B22" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SchemaArchitect&style=for-the-badge&label=PROFILE%20VIEWS&color=58A6FF&labelColor=161B22" alt="Profile views">
+</p>
+
+<br clear="both">
 
 </div>
 
 ---
 
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
+
+## 👨‍💻 About Me
+
+I'm **Naveen Kumar K**, a Data Engineer who enjoys solving complex problems and building scalable data systems using Python, SQL, Spark, and AWS.
+
+I enjoy taking data from **ingestion → streaming → transformation → warehousing → insight**.
+
+- 🚀 Real-Time Data Pipelines (Kafka, Spark Structured Streaming)
+- 🏗️ Data Lakehouse Architecture (Bronze-Silver-Gold, Delta Lake)
+- ☁️ AWS Cloud & Orchestration (Glue, Athena, Airflow, EMR)
+- 🤖 RAG, LLMs & AI-Powered Applications
+- 🐍 Python, PySpark, SQL & Data Modeling
+- 📊 BI & Analytics (Power BI)
+
+> **Build pipelines. Break assumptions. Learn data. Ship insight.**
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,mysql,mongodb,aws,docker,kubernetes,git,github,linux,fastapi,postgres&perline=4&theme=dark" width="100%" alt="Tech stack">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧱 Featured Projects
+
+- **Production-Grade Event-Driven Data Lakehouse on AWS** — real-time Kafka-Spark streaming into a Bronze-Silver-Gold Delta Lake, orchestrated with Airflow, Glue, Athena, and Terraform.
+- **LLM Ranking System** — LightGBM-based ranking of LLM responses with SHAP explainability and automated best-response selection.
+- **On-Premise Real-Time Retail Data Platform** — Kafka-Spark streaming pipeline with Bronze-Silver-Gold layers feeding Power BI data marts.
+- **GovSchemeAI** — RAG-based chatbot recommending government schemes via semantic search and Groq Llama 3.
+- **Global Terrorism Analysis (1970–2021)** — geospatial trend analysis across 214K+ records to identify attack hotspots.
+
+<br><br>
+
 <div align="center">
 
-<img src="./img.png" width="100%" alt="Naveen Kumar K - Data Engineering">
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SchemaArchitect/SchemaArchitect/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SchemaArchitect/SchemaArchitect/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/SchemaArchitect/SchemaArchitect/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
-
-I'm a **Data Engineering enthusiast** focused on building scalable data pipelines, real-time streaming systems, cloud data platforms, and AI-powered applications.
-
-I enjoy working across the complete data lifecycle — **ingestion → processing → transformation → analytics → visualization**.
-
-Currently focused on strengthening my skills in **Big Data, Cloud, Streaming, Data Architecture, and AI/LLM systems**.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-**Python • SQL • Pandas • NumPy • PL/SQL**
-
-### Big Data & Streaming
-
-<p>
-<img src="https://skillicons.dev/icons?i=kafka,spark,hadoop" />
-</p>
-
-**Kafka • Apache Spark • PySpark • Spark Structured Streaming • Hadoop • Hive • Airflow**
-
-### Cloud & Data Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-**AWS • S3 • EC2 • VPC • Glue • Athena • EMR • RDS • Lambda**
-
-### Data Architecture
-
-**Data Warehouse • Data Lake • Lakehouse • Medallion Architecture • Delta Lake • ETL / ELT**
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,vscode" />
-</p>
-
-**Linux • Docker • Kubernetes • Git • GitHub • VS Code • Terraform**
-
-### AI / ML / LLM
-
-**Machine Learning • NLP • Embeddings • RAG • FAISS • LLM Applications • MCP**
-
----
-
-## 🔥 Featured Projects
-
-### ⚡ Production-Grade Event-Driven Data Lakehouse
-
-**Kafka • PySpark • Spark Streaming • AWS • Airflow • Delta Lake • Power BI**
-
-Real-time e-commerce data platform implementing **streaming ingestion, data processing, medallion architecture, cloud storage, and analytics**.
-
----
-
-### 🛒 On-Premise Real-Time Retail Data Platform
-
-**Kafka • PySpark • Spark Structured Streaming • Delta Lake • Power BI**
-
-Real-time retail pipeline for **event ingestion, cleansing, validation, deduplication, transformation, and analytical reporting**.
-
----
-
-### 🤖 LLM Ranking System
-
-**Python • LightGBM • NLP • Embeddings • SHAP**
-
-Intelligent ranking system that evaluates responses using **engineered features, NLP signals, and explainable ML**.
-
----
-
-### 🌍 Global Terrorism Analysis
-
-**Python • Pandas • Scikit-learn • Cartopy**
-
-Large-scale exploratory and analytical study of global terrorism data with **geospatial visualization and machine learning analysis**.
-
----
-
-## 💼 Experience
-
-### AI/ML Intern — ComedKares Innovation Hub
-**May 2026 – June 2026**
-
-Built an AI-powered government-scheme recommendation system using:
-
-**RAG • Sentence Transformers • FAISS • Llama 3 • FastAPI**
-
----
-
-## 🎓 Education
-
-**M.Sc. Big Data Analytics**  
-St. Joseph's University, Bengaluru  
-2025 – 2027 | SGPA: **8.71**
-
-**BCA — Data Analytics**  
-St. Joseph's University, Bengaluru  
-2022 – 2025 | CGPA: **8.70**
-
----
-
-## 📊 Data Engineering Focus
-
-```text
-Python
-   ↓
-SQL & Databases
-   ↓
-Hadoop & Hive
-   ↓
-Spark & PySpark
-   ↓
-Kafka & Streaming
-   ↓
-Airflow
-   ↓
-AWS Cloud
-   ↓
-Data Lake / Lakehouse
-   ↓
-Analytics & Visualization
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+<br>
+<sub><b>© Naveen Kumar K</b> · Data Engineer · Spark · Kafka · AWS</sub>
+</div>
