@@ -47,14 +47,15 @@
 
 I'm **Naveen Kumar K**, a Data Engineer who enjoys solving complex problems and building scalable data systems using Python, SQL, Spark, and AWS.
 
-I enjoy taking data from **ingestion → streaming → transformation → warehousing → insight**.
-
-- 🚀 Real-Time Data Pipelines (Kafka, Spark Structured Streaming)
-- 🏗️ Data Lakehouse Architecture (Bronze-Silver-Gold, Delta Lake)
-- ☁️ AWS Cloud & Orchestration (Glue, Athena, Airflow, EMR)
-- 🤖 RAG, LLMs & AI-Powered Applications
-- 🐍 Python, PySpark, SQL & Data Modeling
-- 📊 BI & Analytics (Power BI)
+- 🐍 **Languages & Data:** Python, Pandas, NumPy, SQL, PL/SQL
+- 📊 **Visualization & BI:** Matplotlib, Seaborn, Power BI
+- 🗄️ **Databases:** MySQL, MongoDB, Cassandra, Vector Databases
+- 🏗️ **Big Data:** Hadoop, Hive, Spark, PySpark, Structured Streaming, Kafka, Airflow, Cron, Databricks
+- ☁️ **AWS:** EC2, S3, VPC, Redshift, Athena, Glue, EMR, Lambda, RDS, DynamoDB, EKS, IAM, CloudWatch, MSK, MWAA
+- 🛠️ **DevOps:** Linux, Docker, Kubernetes, Git, GitHub
+- 🤖 **ML/AI:** ML, Deep Learning (CNN), NLP, LLMs, Embeddings, RAG, MCP
+- 🧱 **Data Architecture:** Data Warehousing, Data Lake, Lakehouse, Delta Lake, Star/Snowflake Schema, ETL/ELT
+- ⚙️ **Backend:** FastAPI, PostgreSQL
 
 > **Build pipelines. Break assumptions. Learn data. Ship insight.**
 
