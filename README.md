@@ -1,186 +1,375 @@
 <div align="center">
 
-<img src="header-banner (1).svg" width="100%" />
+# Hey there, I'm Naveen Kumar K👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+Big+Data+%26+Cloud;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+Kafka+%C2%B7+AWS;Building+Event-Driven+Lakehouses+on+AWS;M.Sc.+Big+Data+Analytics+%40+St.+Joseph%27s+University" />
+### Data Engineer • Big Data • Real-Time Streaming • Cloud • AI/LLM
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-k-973442398/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenkumark2830@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=naveenkumark2830-spec&color=70a5fd&style=flat-square&label=Profile+Views)
+<p>
+  <a href="https://github.com/naveenkumark2830-spec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:naveenkumark2830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Engineer;Real-Time+Data+Pipeline+Builder;Apache+Spark+%7C+Kafka+%7C+Airflow;AWS+%7C+Lakehouse+%7C+Delta+Lake;Python+%7C+SQL+%7C+Big+Data;AI+%26+LLM+Engineering" alt="Typing SVG">
 
 </div>
 
-<br>
+---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Naveen Kumar K"
-        self.location = "Bengaluru, India"
-        self.degree = "M.Sc. Big Data Analytics — St. Joseph's University"
-        self.stack = ["Python", "SQL", "Spark", "Kafka", "Airflow", "AWS"]
-        self.currently_learning = [
-            "Distributed systems design",
-            "RAG evaluation metrics (NDCG, MRR)",
-            "Data governance at scale",
-        ]
-        self.fun_fact = "Turned 214K+ raw terrorism records into one clean, analysis-ready dataset"
+I'm **Naveen Kumar**, a passionate **Data Engineer** focused on building scalable, reliable, and real-time data systems.
 
-    def motto(self):
-        return "Build pipelines that never break."
+I enjoy working across the complete data engineering lifecycle:
 
+**Raw Data → Ingestion → Streaming → Processing → Storage → Transformation → Analytics → Insights**
 
-me = DataEngineer()
-print(me.motto())
-```
+My primary interests include:
 
-<br clear="right"/>
+* ⚡ Real-time data engineering
+* 🔥 Apache Spark & PySpark
+* 📨 Apache Kafka & event-driven systems
+* 🌬️ Apache Airflow & workflow orchestration
+* ☁️ AWS cloud data engineering
+* 🏞️ Data Lakes & Lakehouse architecture
+* 🧱 Delta Lake & Medallion architecture
+* 📊 Data Warehousing & BI
+* 🤖 RAG, NLP & LLM applications
+* 🐍 Python & SQL
+
+> **Build reliable pipelines. Transform data. Create systems that solve real problems.**
+
+---
 
 ## 🛠️ Tech Stack
 
-**Programming & Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL_(Basics)-F80000?style=flat-square&logo=oracle&logoColor=white)
+### 👨‍💻 Programming & Data
 
-**Visualization & BI**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_Databases_(Basic)-6E56CF?style=flat-square)
+**Python • Pandas • NumPy • SQL • PL/SQL**
 
-**Big Data**
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Spark Structured Streaming](https://img.shields.io/badge/Spark_Structured_Streaming-E25A1C?style=flat-square)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks_(Basic)-FF3621?style=flat-square&logo=databricks&logoColor=white)
+### ⚡ Big Data & Streaming
 
-**Cloud (AWS)**
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square)
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square)
-![EMR](https://img.shields.io/badge/EMR-FF9900?style=flat-square)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat-square&logo=amazonrds&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazoniam&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spark&theme=dark" />
+</p>
 
-**DevOps & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Hadoop • Hive • Apache Spark • PySpark • Spark Structured Streaming • Kafka • Airflow • Databricks**
 
-**ML / NLP & LLM Tooling**
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-2C3E50?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-2C3E50?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-2C3E50?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-2C3E50?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP_(Basic)-2C3E50?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C3E50?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### ☁️ AWS
 
-**Data Architecture**
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-00758F?style=flat-square)
-![Data Lake](https://img.shields.io/badge/Data_Lake-00758F?style=flat-square)
-![Lakehouse](https://img.shields.io/badge/Lakehouse-00758F?style=flat-square)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00758F?style=flat-square)
-![Star & Snowflake Schema](https://img.shields.io/badge/Star_%26_Snowflake_Schema-00758F?style=flat-square)
-![Fact/Dimension Tables](https://img.shields.io/badge/Fact%2FDimension_Tables-00758F?style=flat-square)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-00758F?style=flat-square)
+**EC2 • S3 • VPC • Redshift • Athena • Glue • EMR • Lambda • RDS • DynamoDB • EKS • IAM • CloudWatch**
 
-<br>
+### 🏞️ Data Architecture
 
-## 📊 GitHub Stats
+**Data Warehouse • Data Lake • Lakehouse • Delta Lake • ETL/ELT • Star Schema • Snowflake Schema • Fact & Dimension Tables**
+
+### 🐳 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,vscode&theme=dark" />
+</p>
+
+**Linux • Docker • Kubernetes • Git • GitHub • VS Code**
+
+### 🤖 AI / ML / LLM
+
+**Machine Learning • NLP • Embeddings • RAG • MCP • Vector Databases • LightGBM • SHAP • FAISS • Sentence Transformers**
+
+---
+
+# 🚀 Featured Projects
+
+## 1. 🏭 Production-Grade Event-Driven Data Lakehouse on AWS
+
+**Kafka • Apache Spark • PySpark • Airflow • AWS • S3 • Delta Lake • Athena • Glue • Power BI • Terraform • Docker**
+
+Built a production-oriented real-time e-commerce data platform based on an event-driven architecture.
+
+### Highlights
+
+* ⚡ Real-time e-commerce event generation and Kafka → Spark streaming
+* 🔍 Data validation and schema handling
+* 💧 Watermarking and late-data handling
+* ♻️ Deduplication and incremental processing
+* 📌 Checkpointing for reliable streaming
+* 🪟 Window-based streaming analytics
+* 🥉 Bronze → Silver → Gold architecture
+* 🏞️ Delta Lake on Amazon S3
+* 🌬️ Airflow orchestration
+* 🔎 Athena-based analytics
+* 📊 Power BI business dashboards
+* 🐳 Docker-based deployment
+* 🏗️ Terraform infrastructure automation
+
+**Architecture**
+
+```text
+E-Commerce Events
+       │
+       ▼
+     Kafka
+       │
+       ▼
+Spark Structured Streaming
+       │
+       ▼
+   Bronze Layer
+       │
+       ▼
+   Silver Layer
+       │
+       ▼
+    Gold Layer
+       │
+       ├────────► Athena
+       │
+       └────────► Power BI
+       
+Airflow → Orchestration
+AWS S3  → Data Lake
+Docker  → Deployment
+Terraform → Infrastructure
+```
+
+---
+
+## 2. ⚡ On-Premise Real-Time Retail Data Platform
+
+**Kafka • PySpark • Spark Structured Streaming • Delta Lake • Docker • Power BI**
+
+Designed and implemented a real-time retail data platform for continuous event ingestion and analytics.
+
+### Highlights
+
+* Kafka-based real-time order ingestion
+* Spark Structured Streaming
+* Checkpointing
+* Incremental processing
+* Bronze → Silver → Gold architecture
+* Data validation
+* Deduplication
+* Data cleansing
+* Business transformations
+* Gold data marts for:
+
+  * 💰 Revenue
+  * 📦 Orders
+  * 💳 Payments
+  * 🛍️ Products
+  * 🌎 States
+  * 📊 Operational KPIs
+
+---
+
+## 3. 🤖 LLM Ranking System
+
+**Python • LightGBM • SHAP • NLP • Embeddings**
+
+Built an intelligent ranking system to evaluate and rank LLM-generated responses.
+
+### Highlights
+
+* Developed a **LightGBM ranking model**
+* Engineered **10+ evaluation features**
+* Prompt classification
+* NLP and embedding-based features
+* SHAP-based explainability
+* Transparent ranking decisions
+* Keyword highlighting
+* Automated best-response selection
+
+---
+
+## 4. 🌍 Global Terrorism Analysis — 1970–2021
+
+**Python • Pandas • Scikit-learn • Cartopy**
+
+Analyzed a large-scale global terrorism dataset to identify historical patterns, geographic hotspots, and attack trends.
+
+### Highlights
+
+* 📊 214K+ terrorism records analyzed
+* 🧹 Created a 198,280-row analysis-ready dataset
+* 🌎 Geospatial visualization
+* 📈 Historical trend analysis
+* 🔎 Regional hotspot identification
+* 🧠 Attack-pattern analysis
+
+---
+
+# 💼 Experience
+
+## AI/ML Intern — ComedKares Innovation Hub
+
+**May 2026 – June 2026 | Bengaluru**
+
+Worked on an AI-powered government scheme recommendation system using Retrieval Augmented Generation.
+
+### Contributions
+
+* 🤖 Built an AI-powered recommendation system for personalized government schemes
+* 🔎 Implemented semantic search using **Sentence Transformers + FAISS**
+* 🧠 Integrated **Groq Llama 3** for context-aware responses
+* ⚡ Developed a **FastAPI** backend for real-time chatbot interaction
+* 🔗 Designed scalable API communication
+
+---
+
+# 🎓 Education
+
+### St. Joseph's University — Bengaluru
+
+**M.Sc. Big Data Analytics**
+2025 – 2027 *(Expected)*
+
+**SGPA: 8.71**
+
+### St. Joseph's University — Bengaluru
+
+**BCA in Data Analytics**
+2022 – 2025
+
+**CGPA: 8.7**
+
+---
+
+# 🧠 Core Data Engineering Skills
+
+```text
+Python
+  ├── Pandas
+  ├── NumPy
+  └── Data Processing
+
+SQL
+  ├── Advanced SQL
+  ├── Window Functions
+  ├── CTEs
+  ├── Query Optimization
+  └── PL/SQL Basics
+
+Big Data
+  ├── Hadoop
+  ├── HDFS
+  ├── Hive
+  ├── Spark
+  └── PySpark
+
+Streaming
+  ├── Kafka
+  ├── Spark Structured Streaming
+  ├── Watermarking
+  ├── Checkpointing
+  └── Window Processing
+
+Cloud
+  └── AWS
+
+Architecture
+  ├── Data Warehouse
+  ├── Data Lake
+  ├── Lakehouse
+  ├── Delta Lake
+  └── Medallion Architecture
+```
+
+---
+
+# 📈 Currently Learning
+
+* 🔥 Advanced Apache Spark
+* 📨 Advanced Kafka
+* 🌬️ Airflow
+* ☁️ AWS Data Engineering
+* 🏞️ Lakehouse Architecture
+* 🧱 Delta Lake
+* 🐳 Docker & Kubernetes
+* 🏗️ Terraform
+* 🤖 RAG & LLM Systems
+* 🔌 MCP & AI Agents
+* 📊 Advanced Data Warehousing
+
+---
+
+# 🌱 Leadership
+
+### President — National Service Scheme (NSS)
+
+**2024 – 2025**
+
+* Led **50+ volunteers**
+* Organized multiple outreach initiatives
+* Managed a successful **7-day rural camp**
+
+### First Coordinator — MetaMinds 1.0
+
+**2025 – 2026**
+
+* Managed end-to-end planning of a **2-day inter-collegiate fest**
+* Coordinated cross-functional teams
+* Managed an event with **1,200+ participants**
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=naveenkumark2830-spec&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=naveenkumark2830-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumark2830-spec&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumark2830-spec&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
+---
 
-<br>
-
-## 💼 Work Experience
-
-<details>
-<summary><b>AI/ML Intern — ComedKares Innovation Hub</b> | May 2026 – Jun 2026 | Bengaluru, India</summary>
-<br>
-
-> `RAG` `FAISS` `Sentence Transformers` `Groq Llama 3` `FastAPI`
-
-- Developed an AI-powered recommendation system suggesting personalized government schemes using Retrieval-Augmented Generation (RAG)
-- Implemented semantic search using Sentence Transformers & FAISS, paired with Groq Llama 3 for context-aware responses
-- Built the web application's FastAPI backend for real-time chatbot interaction and scalable API communication
-
-</details>
-
-<br>
-
-## 🚀 Featured Projects
+# 🐍 Contribution Snake
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Production-Grade Event-Driven Data Lakehouse on AWS](#)** | Kafka, Spark, Airflow, AWS, Docker | Real-time Kafka–Spark streaming with watermarking, dedup & windowing → Bronze-Silver-Gold **Delta Lake on S3**; orchestrated via Airflow, Glue, Athena, Terraform |
-| **[LLM Ranking System](#)** | Python, LightGBM, SHAP, NLP | LightGBM model ranking LLM responses on **10+ engineered features**; SHAP explainability + automated best-response selection |
-| **[On-Premise Real-Time Retail Data Platform](#)** | Kafka, PySpark, Spark, Delta Lake, Docker, Power BI | Kafka–Spark Structured Streaming for real-time order ingestion; Gold data marts for revenue, orders, payments & operational KPIs |
-| **[Global Terrorism Analysis (1970–2021)](#)** | Python, Pandas, Cartopy, Scikit-learn | Cleaned **214K+ records → 198,280-row** analysis-ready dataset; geospatial hotspot & trend analysis across five decades |
+<img src="https://raw.githubusercontent.com/naveenkumark2830-spec/naveenkumark2830-spec/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake">
 
 </div>
 
-*Repo links to be added.*
+---
 
-<br>
-
-## 🏆 Achievements
+# 🤝 Let's Connect
 
 <div align="center">
 
-| | Achievement | Details |
-|---|---|---|
-| 🎤 | Fest Coordination | First Coordinator, MetaMinds 1.0 — 2-day inter-collegiate fest, **1,200+ participants** |
-| 🤝 | Volunteer Leadership | President, NSS — led **50+ volunteers**, organized a 7-day rural camp |
-| 🧮 | Data Cleaning at Scale | Reduced 214K+ raw terrorism records to a **198,280-row** analysis-ready dataset |
-| 🧠 | ML Explainability | Built a LightGBM ranking model with SHAP-based transparency across **10+ features** |
+**Interested in Data Engineering, Big Data, Real-Time Systems, Cloud, or AI?**
+
+Feel free to connect and collaborate.
+
+<p>
+  <a href="https://github.com/naveenkumark2830-spec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:naveenkumark2830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 </div>
 
-<br>
-
-## 🎓 Education
+---
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| M.Sc. Big Data Analytics | St. Joseph's University, Bengaluru | 2025 – 2027 (Expected) | SGPA 8.71 |
-| B.C.A. in Data Analytics | St. Joseph's University, Bengaluru | 2022 – 2025 | CGPA 8.7 |
-| PUC — MSBA Combination | St. Joseph's Indian Composite PU College | — | 89% |
-| SSLC | St. Paul High School | — | 92.32% |
+### ⚡ Data → Systems → Insights → Impact
 
-</div>
+<sub>© Naveen Kumar K · Data Engineer · Big Data · Cloud · AI/LLM</sub>
 
-<div align="center">
-<img src="footer-banner.svg" width="100%" />
 </div>
