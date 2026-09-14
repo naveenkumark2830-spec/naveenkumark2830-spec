@@ -23,10 +23,6 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SchemaArchitect&style=for-the-badge&label=PROFILE%20VIEWS&color=58A6FF&labelColor=161B22" alt="Profile views">
-</p>
-
 <br clear="both">
 
 </div>
